@@ -1,0 +1,35 @@
+/* #id */
+/* .class */
+
+section{
+    width: 77%;
+    margin: auto;
+    border: 1px solid;
+
+}
+.i{
+    text-align: center;
+    margin-bottom: 40px;
+    
+}
+button{
+      /* مهمه */
+    /* justify-content: center end start;افقي */
+    /* align-items: center end start; عرضي */
+
+}
+
+img{
+    width: fit-content;
+    margin: auto;  
+}
+.op{
+    display: flex;
+    align-items:center;
+    justify-content: space-between;
+    gap: 20px;
+
+}
+h2{
+    color: rgb(84, 3, 224);
+}
